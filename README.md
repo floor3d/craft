@@ -1,2 +1,2 @@
 # craft
-RAFT Protocol in C
+Making RAFT in C
